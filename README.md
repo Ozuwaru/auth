@@ -1,1 +1,1 @@
-Simple projecto to test authentication with Laravel
+Simple project to test authentication with Laravel.
